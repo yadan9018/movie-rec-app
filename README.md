@@ -39,9 +39,9 @@ If you want to experiment with your data and visualizations interactively, consi
 Conclusion: Now your development environment is set up and ready to go! You can start exploring the MovieLens dataset and building your movie recommendation app.
 
 ## Download the MovieLens Dataset
-1.Go to the MovieLens website : Choose the Dataset: For beginners, it’s recommended to download the smaller datasets, such as MovieLens 100K. Click on the link for the dataset you want (e.g., MovieLens 100K). 
-2.Download the Dataset: You will usually be redirected to a page where you can download the dataset as a .zip file. Click on the download link to get the dataset. 
-3.Extract the Files : After downloading, extract the .zip file to a directory on your computer. This will create a folder containing several .csv files (like u.data, u.item, u.genre, etc.).
+1. Go to the MovieLens website : Choose the Dataset: For beginners, it’s recommended to download the smaller datasets, such as MovieLens 100K. Click on the link for the dataset you want (e.g., MovieLens 100K). 
+2. Download the Dataset: You will usually be redirected to a page where you can download the dataset as a .zip file. Click on the download link to get the dataset. 
+3. Extract the Files : After downloading, extract the .zip file to a directory on your computer. This will create a folder containing several .csv files (like u.data, u.item, u.genre, etc.).
 
 
 
