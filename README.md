@@ -43,6 +43,9 @@ Conclusion: Now your development environment is set up and ready to go! You can 
 2. Download the Dataset: You will usually be redirected to a page where you can download the dataset as a .zip file. Click on the download link to get the dataset. 
 3. Extract the Files : After downloading, extract the .zip file to a directory on your computer. This will create a folder containing several .csv files (like u.data, u.item, u.genre, etc.).
 
+### Recommendation System Approach
+
+I plan to implement a **User-User Collaborative Filtering Model** to recommend movies. This approach will identify users with similar movie rating patterns and suggest movies that a similar user has liked but the current user has not seen yet. I will use cosine similarity to find users with shared preferences based on their past ratings. This technique will help provide personalized movie recommendations based on other users' viewing habits.
 
 
 
